@@ -103,7 +103,7 @@ public class Boundary : MonoBehaviour
 			
 			// Fade logic
 			if (fadeCoroutine != null) StopCoroutine(fadeCoroutine); else Debug.Log("routine is null");
-			fadeCoroutine = StartCoroutine(FadeTilemapColor(fadeInColor));
+			if (boundaryTilemap) fadeCoroutine = StartCoroutine(FadeTilemapColor(fadeInColor));
 		}
 	}
 
@@ -127,7 +127,7 @@ public class Boundary : MonoBehaviour
 
 			// Fade logic
 			if (fadeCoroutine != null) StopCoroutine(fadeCoroutine); else Debug.Log("routine is null");
-			fadeCoroutine = StartCoroutine(FadeTilemapColor(fadeOutColor));
+			if (boundaryTilemap) fadeCoroutine = StartCoroutine(FadeTilemapColor(fadeOutColor));
 		}
 	}
 
