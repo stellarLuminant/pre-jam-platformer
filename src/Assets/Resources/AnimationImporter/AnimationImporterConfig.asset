@@ -17,7 +17,7 @@ MonoBehaviour:
   - Jump
   - Astronaut_Jump
   _automaticImporting: 1
-  _spritePixelsPerUnit: 8
+  _spritePixelsPerUnit: 16
   _targetObjectType: 0
   _spriteAlignment: 0
   _spriteAlignmentCustomX: 0
