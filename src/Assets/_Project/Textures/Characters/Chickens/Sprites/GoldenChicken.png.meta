@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 20130993ff569f04f9cffaae68dc59ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6573699613964321120
+    second: GoldenChicken 0
+  - first:
+      213: -2680219115157266068
+    second: GoldenChicken 1
+  - first:
+      213: 4042399096276432130
+    second: GoldenChicken 2
+  - first:
+      213: -5806702178876237508
+    second: GoldenChicken 3
+  - first:
+      213: -5612400134154400503
+    second: GoldenChicken 4
+  - first:
+      213: -6213076196830737884
+    second: GoldenChicken 5
+  - first:
+      213: -3815084361698502870
+    second: GoldenChicken 6
+  - first:
+      213: -7986940082037219429
+    second: GoldenChicken 7
+  - first:
+      213: -4588454345165279787
+    second: GoldenChicken 8
+  - first:
+      213: -5003425176919643743
+    second: GoldenChicken 9
+  - first:
+      213: -3193068570441268035
+    second: GoldenChicken 10
+  - first:
+      213: 441788750162027878
+    second: GoldenChicken 11
+  - first:
+      213: -6863637647313227314
+    second: GoldenChicken 12
+  - first:
+      213: 2567095671171592484
+    second: GoldenChicken 13
+  - first:
+      213: -1679269413472158424
+    second: GoldenChicken 14
+  - first:
+      213: 6473465490252483641
+    second: GoldenChicken 15
+  - first:
+      213: 563818616824473466
+    second: GoldenChicken 16
+  - first:
+      213: 4913044744692391025
+    second: GoldenChicken 17
+  - first:
+      213: -1309340301009548159
+    second: GoldenChicken 18
+  - first:
+      213: -2999282033000191189
+    second: GoldenChicken 19
+  - first:
+      213: -3649082018525278357
+    second: GoldenChicken 20
+  - first:
+      213: -215940390782997756
+    second: GoldenChicken 21
+  - first:
+      213: 7275579664549370216
+    second: GoldenChicken 22
+  - first:
+      213: 1006969227908386458
+    second: GoldenChicken 23
+  - first:
+      213: -8135785588331522812
+    second: GoldenChicken 24
+  - first:
+      213: -1088890888741213129
+    second: GoldenChicken 25
+  - first:
+      213: 7753947043340459788
+    second: GoldenChicken 26
+  - first:
+      213: 7291277621410114755
+    second: GoldenChicken 27
+  - first:
+      213: 8788027586576858939
+    second: GoldenChicken 28
+  - first:
+      213: 8795568805179130902
+    second: GoldenChicken 29
+  - first:
+      213: -567160796534029321
+    second: GoldenChicken 30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 132
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GoldenChicken 0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeb881b70785c4a0800000000000000
+      internalID: -6573699613964321120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61e6d84ae2fdcad0800000000000000
+      internalID: -2680219115157266068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205baed7f8c791830800000000000000
+      internalID: 4042399096276432130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39589f22237a6fa0800000000000000
+      internalID: -5806702178876237508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d4f5250dfbc12b0800000000000000
+      internalID: -5612400134154400503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a08750e18b6c9a0800000000000000
+      internalID: -6213076196830737884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 80
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2710d87cf81e0bc0800000000000000
+      internalID: -3815084361698502870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f97dfdf40b82190800000000000000
+      internalID: -7986940082037219429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 8
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd635075198250c0800000000000000
+      internalID: -4588454345165279787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a965759f43409ab0800000000000000
+      internalID: -5003425176919643743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db442638d01ffa3d0800000000000000
+      internalID: -3193068570441268035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665eb2f078c812600800000000000000
+      internalID: 441788750162027878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1b5e4cce57fb0a0800000000000000
+      internalID: -6863637647313227314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42130a079e720a320800000000000000
+      internalID: 2567095671171592484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d30d79d5902b8e0800000000000000
+      internalID: -1679269413472158424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ccf34c09e56d950800000000000000
+      internalID: 6473465490252483641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7723957b0613d700800000000000000
+      internalID: 563818616824473466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c5df43a24ae2440800000000000000
+      internalID: 4913044744692391025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0934fee944dde0800000000000000
+      internalID: -1309340301009548159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2befc1c1e86066d0800000000000000
+      internalID: -2999282033000191189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f0981ec3bdb5dc0800000000000000
+      internalID: -3649082018525278357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b68b2db53d00df0800000000000000
+      internalID: -215940390782997756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 22
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8695580482d08f460800000000000000
+      internalID: 7275579664549370216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e8a397d2979fd00800000000000000
+      internalID: 1006969227908386458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405d1c6dc12e71f80800000000000000
+      internalID: -8135785588331522812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 20
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cab61818b73e0f0800000000000000
+      internalID: -1088890888741213129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f9f75f0cd8b9b60800000000000000
+      internalID: 7753947043340459788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 27
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cca7e6ad52df2560800000000000000
+      internalID: 7291277621410114755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f3f3e678855f970800000000000000
+      internalID: 8788027586576858939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61485363a33201a70800000000000000
+      internalID: 8795568805179130902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldenChicken 30
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 40
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3cf00b24a0128f0800000000000000
+      internalID: -567160796534029321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

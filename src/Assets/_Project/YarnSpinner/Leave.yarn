@@ -1,0 +1,12 @@
+﻿title: Leave
+tags:
+colorID: 0
+position: -50,50
+---
+<<if $obtained_chicken>>
+  You escaped, and obtained the Golden Chicken!
+<<else>>
+  You escaped, but you didn't get the Golden Chicken.
+<<endif>>
+<<thanks_for_playing Canvas>>
+===

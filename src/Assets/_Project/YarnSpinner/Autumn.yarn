@@ -1,0 +1,24 @@
+title: Start
+tags: 
+colorID: 0
+position: -88,-88
+---
+Empty Text
+===
+title: Autumn
+tags: 
+colorID: 0
+position: 147,-88
+---
+<<lookAt Player Autumn>>
+
+// "Autumn:"" indicates the character speaking (somehow I need to parse that garbage)
+Autumn: <link="wave">Imagine</link> having a working dialogue system. Like, <i>working</i> working.
+Autumn: Couldn't be me.
+<<close>>
+<<wait 1>>
+Autumn: "The quick brown fox jumps over the lazy dog...?!"
+<<close>>
+<<wait 1>>
+Autumn: <size=16><link="shake">HOLY SHIT</link></size>
+===
